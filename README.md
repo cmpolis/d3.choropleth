@@ -1,6 +1,6 @@
 # d3.choropleth
 
-**Beautiful and informative svg choropleth maps. Just add data.** by [http://twitter.com/ChrisPolis](@ChrisPolis)
+**Beautiful and informative svg choropleth maps. Just add data.** by [@ChrisPolis](http://twitter.com/ChrisPolis)
 
 ### Map types
 * World Countries
